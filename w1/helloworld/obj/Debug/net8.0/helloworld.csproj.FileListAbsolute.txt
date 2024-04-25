@@ -1,0 +1,14 @@
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\bin\Debug\net8.0\helloworld.exe
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\bin\Debug\net8.0\helloworld.deps.json
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\bin\Debug\net8.0\helloworld.runtimeconfig.json
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\bin\Debug\net8.0\helloworld.dll
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\bin\Debug\net8.0\helloworld.pdb
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfoInputs.cache
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfo.cs
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\helloworld.csproj.CoreCompileInputs.cache
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\helloworld.dll
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\refint\helloworld.dll
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\helloworld.pdb
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\helloworld.genruntimeconfig.cache
+c:\Users\cdris\Documents\Classes\SE-245\w1\helloworld\obj\Debug\net8.0\ref\helloworld.dll

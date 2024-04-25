@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3F436-D03B-406C-A4C6-38DF94F970D6}|Midterm.csproj|c:\\users\\cdris\\documents\\classes\\se-245\\w5\\midterm\\midterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18D3F436-D03B-406C-A4C6-38DF94F970D6}|Midterm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3F436-D03B-406C-A4C6-38DF94F970D6}|Midterm.csproj|C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3F436-D03B-406C-A4C6-38DF94F970D6}|Midterm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D3F436-D03B-406C-A4C6-38DF94F970D6}|Midterm.csproj|C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D3F436-D03B-406C-A4C6-38DF94F970D6}|Midterm.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:54:02.263Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:03:21.882Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\cdris\\Documents\\Classes\\SE-245\\w5\\Midterm\\Midterm\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:04:24.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

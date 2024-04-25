@@ -1,0 +1,10 @@
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\bin\Debug\Midterm.exe
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\bin\Debug\Midterm.pdb
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\obj\Debug\Midterm.Form1.resources
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.cache
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\obj\Debug\Midterm.exe
+C:\Users\cdris\Documents\Classes\SE-245\w5\Midterm\Midterm\obj\Debug\Midterm.pdb

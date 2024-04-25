@@ -1,0 +1,14 @@
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\Activity.AssemblyInfoInputs.cache
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\Activity.AssemblyInfo.cs
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\Activity.csproj.CoreCompileInputs.cache
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\bin\Debug\net8.0\Activity.exe
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\bin\Debug\net8.0\Activity.deps.json
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\bin\Debug\net8.0\Activity.runtimeconfig.json
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\bin\Debug\net8.0\Activity.dll
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\bin\Debug\net8.0\Activity.pdb
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\Activity.dll
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\refint\Activity.dll
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\Activity.pdb
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\Activity.genruntimeconfig.cache
+C:\Users\cdris\Documents\Classes\SE-245\w4\Activity\obj\Debug\net8.0\ref\Activity.dll
